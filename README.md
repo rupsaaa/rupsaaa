@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rupsa Bhattacharjee</h1>
 <h3 align="center">A passionate developer and coding enthusiast from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=debrup-chatterjee&label=Profile%20views&color=0e75b6&style=flat" alt="debrup-chatterjee" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rupsaaa&label=Profile%20views&color=0e75b6&style=flat" alt="debrup-chatterjee" /> </p>
 
 - 🌱 I’m currently learning and exploring **MERN stack, Python and Java** 
 
